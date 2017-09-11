@@ -1,5 +1,4 @@
 def main():
-    print "hello"
     import helper.py
     helper.greeting("Hello")
 
